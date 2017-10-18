@@ -10,4 +10,6 @@ Our framework, as part of the 2nd WiSHFUL Competitive Call for Experiments, has 
 
 In details, southbound, the CORAL Controller interacts with the WiSHFUL platform that provides the required software and hardware experimentation capabilities, such as the appropriate radio- and network-control abstractions over heterogeneous wireless environments (i.e., the Unified Programming Interfaces - UPIs). Westbound, our controller exploits the feature extractor eWINE component for Link Quality Estimation (LQI) to advance its intelligence. The API interface uses server/client Sockets and JSON messages. Communication takes place in two phases: the training and operational one. Finally, northbound, the CORAL controller is connected with our dashboard, which constitutes a highly flexible GUI visualization tool based on Node-RED. The interface visualizes the WSN topology and measurements provided by the controller, while it also offers management functionalities and parameters to the user, such as real-time configuration. Our dashboard is based on the eWINE Generalized drag and drop (in Node-RED) component which improves the system’s functionality and flexibility and allows us almost instant addition of new network parameters and UPIs.
 
+![Alt text](https://user-images.githubusercontent.com/24733570/31710617-d2945114-b3f5-11e7-8288-6634dcac9ab3.jpg)
+
 
