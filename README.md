@@ -16,5 +16,4 @@ In details, southbound, the CORAL Controller interacts with the WiSHFUL platform
 Detailed information about the code and the functionality can be found at: https://github.com/SWNRG/wishful-coral
 
 # Contact
-adnan.shahid@ugent.be
-
+emamatas@uom.edu.gr
